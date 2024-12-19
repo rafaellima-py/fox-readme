@@ -1,7 +1,7 @@
 # Fox - Bot Grupo VIP Telegram
 
 <p align="center">
-  <img src="https://i.ibb.co/3y6ZhBr/e1e84111-750c-432f-95dc-6b86caff9e4f.jpg" alt="Fox Logo" width="500" height="500"/>
+  <img src="https://i.ibb.co/3y6ZhBr/e1e84111-750c-432f-95dc-6b86caff9e4f.jpg" alt="Fox Logo"/>
 </p>
 
 **Fox** es un bot poderoso y altamente personalizable, diseñado para gestionar grupos VIP en Telegram con facilidad y eficacia. Perfecto para creadores de contenido, emprendedores y comunidades exclusivas, Fox ofrece herramientas avanzadas para automatización, pagos y remarketing.
