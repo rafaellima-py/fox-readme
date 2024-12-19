@@ -1,7 +1,7 @@
 # Fox - Bot Grupo VIP Telegram
 
 <p align="center">
-  <img src="https://i.ibb.co/3y6ZhBr/e1e84111-750c-432f-95dc-6b86caff9e4f.jpg" alt="Fox Logo"/>
+
 </p>
 
 **Fox** es un bot poderoso y altamente personalizable, diseñado para gestionar grupos VIP en Telegram con facilidad y eficacia. Perfecto para creadores de contenido, emprendedores y comunidades exclusivas, Fox ofrece herramientas avanzadas para automatización, pagos y remarketing.
@@ -15,14 +15,14 @@
 - 🇺🇸 Inglés
 - 🇪🇸 Español
 <p align="center">
-  <img src="[link_da_imagem]" alt="Idiomas" width="600"/>
+
 </p>
 
 ### 🔗 **VSL + Planes Personalizados**
 - ✅ Ofrece **Videos de Venta (VSL)** con planes personalizados bajo demanda.
 - ↪ Redirige a los usuarios a un chat de soporte a través de enlaces dedicados.
 <p align="center">
-  <img src="[link_da_imagem]" alt="Planes Personalizados" width="600"/>
+
 </p>
 
 ### 🛒 **Formas de Pago Personalizadas**
@@ -33,13 +33,13 @@
   - 🏦 Revolut
 - ✉️ Reenvío automático de comprobantes a los administradores.
 <p align="center">
-  <img src="[link_da_imagem]" alt="Pagos" width="600"/>
+
 </p>
 
 ### 🛠️ **Sistema de Remarketing por Inactividad**
 - 🔄 Identifica usuarios inactivos y envía hasta **4 mensajes personalizados** en intervalos de horas para reengancharlos.
 <p align="center">
-  <img src="[link_da_imagem]" alt="Remarketing" width="600"/>
+
 </p>
 
 ### 📢 **Envío de Mensajes Masivos**
@@ -48,7 +48,7 @@
   - 🖼 Fotos
   - 🎥 Videos
 <p align="center">
-  <img src="[link_da_imagem]" alt="Mensajes Masivos" width="600"/>
+
 </p>
 
 ### 🔑 **Sistema de Gestión de Suscripciones**
@@ -67,7 +67,7 @@
 - ⚠️ Notifica a los usuarios sobre el vencimiento de sus suscripciones **a partir del 5º día antes del plazo final**.
 
 <p align="center">
-  <img src="[link_da_imagem]" alt="Gestión de Suscripciones" width="600"/>
+
 </p>
 
 ---
