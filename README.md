@@ -58,17 +58,15 @@
   - 📅 Atribua assinaturas vitalícias.
   - ⌛ Veja o tempo restante de cada assinatura.
 
+### 📡 **Sistema de Gerenciamento de Canal**
+- 🛡️ Atribua permissões de administrador ao bot.
+- 🔗 Gere um link de acesso único após a compra.
+- ❌ Remova automaticamente o usuário após a expiração da assinatura.
+
 ### ⏰ **Sistema de Lembrete**
 - ⚠️ Notifique os usuários sobre o vencimento de suas assinaturas **a partir do 5º dia antes do prazo final**.
 
 <p align="center">
   <img src="[link_da_imagem]" alt="Gerenciamento de Assinaturas" width="600"/>
-</p>
-
----
----
-
-<p align="center">
-  Feito com ❤ por [Seu Nome]
 </p>
 
